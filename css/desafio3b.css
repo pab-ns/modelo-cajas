@@ -1,0 +1,81 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    }
+
+.caja{
+    width: 48%;
+    margin: .5% .5%;
+    height: 300px;
+    border: 2px #ddd solid;
+    float: left;
+} 
+
+/* España */
+.esp-base{background-color: red;}
+
+.esp-uno{
+    position: relative;
+    top: 70px;
+    background-color: yellow;
+    height: 50%;
+}
+
+/* Dinamarca */
+.din-uno{
+    height: 100%;
+    width: 5%;
+    background-color: #fff;
+    position: relative;
+    left: 145px;
+}
+
+.din-dos{
+    position: relative;
+    top: -160px;
+    height: 10%;
+    background-color: #fff;
+}
+
+/* EAU */
+.eau-uno{
+    position: relative;
+    width: 80%;
+    background-color: green;
+    height: 33.33%;
+    float: right;
+}
+.eau-dos{
+    position: relative;
+    width: 80%;
+    background-color: white;
+    height: 33.33%;
+    float: right;
+}
+.eau-tres{
+    position: relative;
+    width: 80%;
+    background-color: black;
+    height: 33.33%;
+    float: right;
+}
+
+/* Japon */
+.japon{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    background-color: red;
+    border: 1px black solid;
+    margin: 95px auto;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    position: absolute;
+}
+
+.ribbon{
+    position: relative;
+    width: 4.5%;
+    top: 145px;
+    left: 150px;
+}
